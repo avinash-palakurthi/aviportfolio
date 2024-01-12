@@ -37,7 +37,7 @@ const Contact = () => {
 						className="p-2 mb-4 bg-transparent border-2
 						border-zinc-600 rounded-md focus:outline-none"
 					/>
-					<button className=" w-full text-center  inline-block px-8 py-3 font-thin  rounded-md text-white text-xl capitalize bg-gradient-to-l from-gray-800 via-gray-800 to-black">
+					<button className=" w-full text-center  inline-block px-8 py-3 font-thin  rounded-md text-white text-xl capitalize bg-gradient-to-l from-gray-800 via-gray-800 to-black" type="submit">
 						I will assist you.
 					</button>
 				</form>
