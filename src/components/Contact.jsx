@@ -8,6 +8,7 @@ const Contact = () => {
 				<form
 					action="https://getform.io/f/b75f443e-d036-4b27-a2b0-9bdf610d56da"
 					method="POST"
+onsubmit="this.submit(); this.reset(); return false;"
 					className="flex flex-col w-full md:w-7/12"
 				>
 					<Title>Contact</Title>
